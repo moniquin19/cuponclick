@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+nav {
+    color: #289745;
+}
+
+.navbar-light .navbar-brand {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.nav-link {
+    color: #ffffff !important;
+}
+
+li .disabled {
+    color: #f8f9fa !important;
+}
+
+.card-footer {
+    background-color: #ffffff;
+}
+
+.precio-new {
+    color: #289745;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.formulario {
+    background-color: #289745;
+    margin: 3rem;
+}
+
+h6 {
+    color: #f8f9fa;
+    margin: 1rem;
+}
